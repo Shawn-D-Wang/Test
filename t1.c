@@ -2,6 +2,8 @@ include <stdio.h>
 
 int main()
 {
-  printf("Hello C World");
+  int a;
+  scanf("a=&a",a);
+  printf("Hello C World\n\d", a);
   return 0;
 }
