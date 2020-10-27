@@ -10,6 +10,13 @@
 //   char *arg2; // argument2
 // };
 
+
+
+void modifyCMDSTR()
+{
+  
+}
+
 void execwww(char *cmd)
 {
   char *agrv[MAX_COMMOND]; // The arguments of the commond string
@@ -17,10 +24,6 @@ void execwww(char *cmd)
   
   /*Modify the commond string*/
   
-}
-
-void modifyCMDSTR()
-{
 }
 
 int main()
